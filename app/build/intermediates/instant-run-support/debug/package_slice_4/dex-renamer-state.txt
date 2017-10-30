@@ -1,0 +1,4 @@
+#Mon Oct 30 18:11:09 ICT 2017
+base.0=D\:\\1147050074\\Afif_uts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\1147050074\\Afif_uts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

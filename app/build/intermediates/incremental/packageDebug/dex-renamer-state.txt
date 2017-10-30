@@ -1,0 +1,7 @@
+#Mon Oct 30 18:21:03 ICT 2017
+base.0=D\:\\1147050074\\Afif_uts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0632dbf60ff534cd5d33195f9d5b434b9e2ffd36
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\1147050074\\Afif_uts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ee5ce0b77da709d5af4324c4ab639b1c8928c34e\\classes.dex
+base.1=D\:\\1147050074\\Afif_uts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ee5ce0b77da709d5af4324c4ab639b1c8928c34e
+file.0=D\:\\1147050074\\Afif_uts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0632dbf60ff534cd5d33195f9d5b434b9e2ffd36\\classes.dex
